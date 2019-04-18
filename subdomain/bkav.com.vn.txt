@@ -29,7 +29,6 @@ se.bkav.com.vn
 south.bkav.com.vn
 store.bkav.com.vn
 tuyendung.bkav.com.vn
-update.bkav.com.vn
 www.bkav.com.vn
 www.forum.bkav.com.vn
 www.mobile.bkav.com.vn
